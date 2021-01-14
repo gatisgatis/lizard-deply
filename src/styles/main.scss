@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+// @font-face {
+//   font-family: primaryFonrNormal;
+//   src: url(../assets/fonts/Goldman-Regular.ttf);
+// }
+
+// @font-face {
+//   font-family: primaryFonrBold;
+//   src: url(../assets/fonts/Goldman-Bold.ttf);
+// }
+
+html {
+  background-color: #eeeeee;
+  font-family: "Goldman", cursive;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 900px) {
+  html {
+    font-size: 12px;
+  }
+}

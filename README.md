@@ -1,5 +1,9 @@
-ROCK PAPER SCISSORS LIZARD SPOCK GAME
+## ROCK PAPER SCISSORS LIZARD SPOCK GAME
 
-Vue + ts
+https://gatisgatis.github.io/lizard-deply/
+
+Vue + ts and basic AI
+
+
 
 
